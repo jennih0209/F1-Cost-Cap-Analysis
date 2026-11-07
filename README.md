@@ -4,7 +4,7 @@ This repository contains our empirical analysis evaluating whether Formula 1’s
 
 ## Deliverables
 * **Analysis Notebook:** [`B05-F1-Cost-Cap.ipynb`](B05-F1-Cost-Cap.ipynb)
-* **Interactive Environment:** [PASTE YOUR EXISTING COLAB BADGE MARKDOWN HERE]
+* **Interactive Environment:** (https://colab.research.google.com/drive/1Ajs2-Fjtuad0Wd0OboxiefyOMXWCzNm7?authuser=1)
 
 ---
 
